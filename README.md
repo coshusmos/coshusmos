@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @coshusmos
+- 👀 I’m a graduated medical student major in Ophthalmology
+- Doing a research program of 3D deep learning model for AMD classification
